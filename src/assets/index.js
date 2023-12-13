@@ -24,6 +24,15 @@ import spacetravelers from './projects/spacetravelers.png';
 import recipeapp from './projects/recipeapp.png';
 import trackbudget from './projects/trackbudget.png';
 import carrental from './projects/carrental.png';
+import cointer from './projects/cointer.jpg';
+import shopping1 from './projects/shopping (1).jpg';
+import shopping2 from './projects/shopping (2).jpg';
+import socialMedia1 from './projects/social media (1).jpg';
+import socialMedia2 from './projects/social media (2).jpg';
+import ecommerce1 from './projects/ecommerce (1).jpg';
+import ecommerce2 from './projects/ecommerce (2).jpg';
+import shop1 from './projects/shop (1).jpg';
+import shop2 from './projects/shop (2).jpg';
 
 // carousel img
 import guesstheword1 from './carousels/guess the word screenshot 1.png';
@@ -56,5 +65,6 @@ import react from './services/react.gif';
 import fullstack from './services/fullstack.gif';
 
 export {
-  logo, light, dark, facebook, instagram, github, linkedin, twitter, facebook1, instagram1, github1, twitter1, linkedin1, tvshowbox, guesstheword, tictactoe, mathmagician, metricwebapp, spacetravelers, recipeapp, trackbudget, carrental, guesstheword1, guesstheword2, guesstheword3, spacetravelers1, spacetravelers2, spacetravelers3, tictactoe1, tictactoe2, tictactoe3, tvshow1, tvshow2, tvshow3, metricswebapp1, metricswebapp2, recipeapp3, recipeapp4, recipeapp6, trackbuget1, trackbuget2, trackbuget5, carrental1, carrental2, carrental3, responsive, react, fullstack,
+  shop1, shop2,
+  ecommerce1, ecommerce2, socialMedia1, socialMedia2, cointer, logo, shopping1, shopping2, light, dark, facebook, instagram, github, linkedin, twitter, facebook1, instagram1, github1, twitter1, linkedin1, tvshowbox, guesstheword, tictactoe, mathmagician, metricwebapp, spacetravelers, recipeapp, trackbudget, carrental, guesstheword1, guesstheword2, guesstheword3, spacetravelers1, spacetravelers2, spacetravelers3, tictactoe1, tictactoe2, tictactoe3, tvshow1, tvshow2, tvshow3, metricswebapp1, metricswebapp2, recipeapp3, recipeapp4, recipeapp6, trackbuget1, trackbuget2, trackbuget5, carrental1, carrental2, carrental3, responsive, react, fullstack,
 };

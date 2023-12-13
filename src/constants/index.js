@@ -1,5 +1,6 @@
 import {
-  facebook, linkedin, instagram, twitter, github, facebook1, linkedin1, instagram1, twitter1, github1, tvshowbox, guesstheword, tictactoe, mathmagician, metricwebapp, spacetravelers, recipeapp, trackbudget, carrental, guesstheword1, guesstheword2, guesstheword3, spacetravelers1, spacetravelers2, spacetravelers3, tictactoe1, tictactoe2, tictactoe3, tvshow1, tvshow2, tvshow3, metricswebapp1, metricswebapp2, recipeapp3, recipeapp4, recipeapp6, trackbuget1, trackbuget2, trackbuget5, carrental1, carrental2, carrental3, responsive, react, fullstack,
+  socialMedia1, socialMedia2, ecommerce1, ecommerce2, shop1, shop2,
+  facebook, linkedin, shopping1, shopping2, instagram, cointer, twitter, github, facebook1, linkedin1, instagram1, twitter1, github1, tvshowbox, guesstheword, tictactoe, mathmagician, metricwebapp, spacetravelers, recipeapp, trackbudget, carrental, guesstheword1, guesstheword2, guesstheword3, spacetravelers1, spacetravelers2, spacetravelers3, tictactoe1, tictactoe2, tictactoe3, tvshow1, tvshow2, tvshow3, metricswebapp1, metricswebapp2, recipeapp3, recipeapp4, recipeapp6, trackbuget1, trackbuget2, trackbuget5, carrental1, carrental2, carrental3, responsive, react, fullstack,
 } from '../assets';
 
 const social = [
@@ -218,6 +219,56 @@ const projects = [
     carousel: [guesstheword1, guesstheword2, guesstheword3],
     source_link: 'https://github.com/Rhaegar121/Guess-the-word',
     live_link: 'https://guess-the-word121.netlify.app/',
+  },
+  {
+    id: 10,
+    name: 'Cointer',
+    desc: "This is a new version of Banco Inter's Internet Banking inspired by Vinícius Tifoski's redesign to match the 2020 mobile interface.",
+    tech: ['ReactJS', 'Typescript', 'nivo', 'Faker.js', 'date-fns'],
+    img: cointer,
+    carousel: [cointer],
+    source_link: 'https://github.com/polarDefender/Cointer',
+    live_link: 'https://bancointer-redesign.netlify.app/',
+  },
+  {
+    id: 11,
+    name: 'Shopping Center',
+    desc: 'This is a shopping platform for user. Very helpful utilization tool for shopping clients',
+    tech: ['Typescript', 'Nextjs', 'Tailwind CSS', 'tRPC', 'Prisma', 'MongoDB', 'Next Auth', 'React-Query'],
+    img: shopping1,
+    carousel: [shopping1, shopping2],
+    source_link: 'https://github.com/polarDefender/shoppingify',
+    live_link: 'https://shoppingify-ashy.vercel.app/',
+  },
+  {
+    id: 12,
+    name: 'Social Media App',
+    desc: 'This is a social media platform which offers all need. Just post and watch blogs and share your idea.',
+    tech: ['React', 'Tailwind', 'Firebase', 'Redux'],
+    img: socialMedia1,
+    carousel: [socialMedia1, socialMedia2],
+    source_link: 'https://github.com/polarDefender/social-media',
+    live_link: 'https://chat-app-eta-blue.vercel.app/signIn',
+  },
+  {
+    id: 13,
+    name: 'Ecommerce Platform',
+    desc: 'Ecommerce Platform with neccesary features. Just visit and feel my skills.',
+    tech: ['React', 'Tailwind', 'Firebase', 'Redux'],
+    img: ecommerce1,
+    carousel: [ecommerce1, ecommerce2],
+    source_link: 'https://github.com/polarDefender/ecommerce',
+    live_link: 'https://ecommerce-tau-six.vercel.app/',
+  },
+  {
+    id: 14,
+    name: 'Vegatable Shop',
+    desc: 'This is a social media platform which offers all need. Just post and watch blogs and share your idea.',
+    tech: ['React', 'Tailwind', 'Firebase', 'Redux'],
+    img: shop1,
+    carousel: [shop1, shop2],
+    source_link: 'https://github.com/polarDefender/fullstack-ecommerce-app',
+    live_link: 'https://mern-ecommerce.onrender.com/',
   },
 ];
 
